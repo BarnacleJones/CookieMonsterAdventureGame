@@ -1,0 +1,7 @@
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\bin\Debug\cookieMonstersAdventureGame.exe.config
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\bin\Debug\cookieMonstersAdventureGame.exe
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\bin\Debug\cookieMonstersAdventureGame.pdb
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\obj\Debug\cookieMonstersAdventureGame.csproj.AssemblyReference.cache
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\obj\Debug\cookieMonstersAdventureGame.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\obj\Debug\cookieMonstersAdventureGame.exe
+C:\Users\Ben\source\repos\cookieMonstersAdventureGame\cookieMonstersAdventureGame\obj\Debug\cookieMonstersAdventureGame.pdb
